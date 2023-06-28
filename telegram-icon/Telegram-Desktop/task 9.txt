@@ -1,0 +1,41 @@
+CONTACT PAGE
+Create a contact form in your contact page. 
+Contact forms should have fields such as name, email, message, and
+a submit button.
+Under it, you place the link below, and change it to your actual 
+email address.
+
+<a href="mailto:youremail@gmail.com">SEND US A MAIL</a>
+
+This is to give people the ease of contacting you seamlessly from
+your website. It opens up their the email software,
+so they'll be able to send you a mail from there.
+
+REGISTRATION PAGE
+Create a registration form making use of fieldsets and legends.
+(Research that)
+Your form should capture the following information from the users:
+Bio Data, Employment Details, Banking Information, Next of Kin,
+Social Media Details. 
+
+BLOG PAGE
+In this page, you're going to create four blog posts.
+The task here is to implement in-page linking such that someone can
+jump from one blog post to the next.
+For example, at the end of the first blog post, you can place a link 
+where someone can click, to gotto the last blog post.
+Like: <a href="#fourth_post">GOTTO THE FOURTH BLOG POST</a>
+
+For the link to locate the fourth blog post and go there, you need to
+place an id with the same name at the beginning of the fourth blog post
+You can wrap the id at the caption of the fourth blog post.
+Like: <h2 id="fourth_post">FOURTH BLOG POST</h2>
+Try to make your blog post lengthy so you can see the effect of the
+link.
+
+Implement this for the other blog posts as well.
+
+Wrap your blog posts in div tags and give each a different background
+color.
+
+Move all the images in those pages to the index.html page.

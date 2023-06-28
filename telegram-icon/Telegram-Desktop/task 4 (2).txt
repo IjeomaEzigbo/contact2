@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Task 4</title>
+<meta name="keywords" content="HTML, Meta Tags, Metadata" />
+<meta name="description" content="Learning about Meta Tags." />
+<meta name="author" content="Code Hives" />
+<meta http-equiv="Content-Type" content="text/html; charset=Big5" />
+</head>
+<body>
+<!-- Document Header Starts -->
+<div>
+  <div id="menu" align="middle" >
+    <a href="/index.html">HOME</a> | 
+    <a href="about_us.html">ABOUT</a>
+    <a href="contact_us.html">CONTACT</a> | 
+  </div>
+  <div>
+    <p>This is <comment>not</comment> Firefox browser.</p>
+    <p style="font-family:arial; color:#FF0000; background: #555">lorem100 then you press the tab key</p>
+    <p>This is the example of <span style="color:green">span tag</span> and the 
+       <span style="color:red">div tag</span> alongwith CSS
+    </p>
+  </div>
+  <div>
+    <img src="test.jpg" alt="Test Image" width="800" height="400" />
+  </div>
+</div>
+</body>
+</html>

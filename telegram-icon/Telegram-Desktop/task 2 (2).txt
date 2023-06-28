@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Web development</title>
+</head>
+<body>
+
+<h1>DIFFERENCES BETWEEN HTML ELEMENTS AND TAGS</h1>
+<h2>HTML TAGS</h2>
+<p>YOUR SHORT NOTE ON HTML TAGS SHOULD BE HERE </p><br />
+
+<h2>HTML ELEMENTS</h2>
+<p>YOUR SHORT NOTE ON HTML ELEMENTS SHOULD BE HERE</p><br />
+
+<h2>SOME EXAMPLES OF HTML TAGS</h2>
+<p>Your examples should be here</p><br />
+
+<h2>SOME EXAMPLES OF HTML ELEMENTS</h2>
+<p>Your examples should be here</p><br />
+
+<center>
+<p>Type lorem50 on your keyboard and press the tab key. 
+This should give you 50 dummy texts</p>
+</center>
+
+<center>
+<p>Type lorem100 on your keyboard and press the tab key. 
+This should give you 100 dummy texts</p>
+</center>
+</body>
+</html>

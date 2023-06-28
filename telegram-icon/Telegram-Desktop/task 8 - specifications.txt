@@ -1,0 +1,20 @@
+For task 8a: 
+You're to create a new menu in your project with the name 
+STAFF. The staff.html page connected to that menu should be a sibling 
+to the other pages in
+the pages folder. You then link it properly across the pages.
+Within your staff.html file, you paste the code you have in the 
+task 8a file. The code the has the details of three employees.
+Your task is to add the details of additional seven employees. This
+should give the details of ten employees all together.
+You can study more on tables on pages 66-75 in the pdf manual.
+
+
+For task 8b: 
+You're to copy the ordered list of items in task 8b file to your about
+page (above the images you have there).
+The task is to create an unordered list of the same set of items under
+the ordered list and then, you place the definition list you have in
+the file under it.
+Basically, you should have the ordered list first, the unordered list
+second (the one you created), and the definition list.

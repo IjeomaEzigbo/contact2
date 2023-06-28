@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Task 3</title>
+</head>
+<body>
+
+<div>
+  <div id="menu" align="middle" >
+    <a href="/index.htm">HOME</a> | 
+    <a href="/about/contact_us.htm">CONTACT</a> | 
+    <a href="/about/index.htm">ABOUT</a>
+  </div>
+  <div>
+    <p align="left">This is left aligned</p>
+    <p align="center">This is center aligned</p>
+    <p align="right">This is right aligned</p>
+  </div>
+  <div>
+    <p style="font-family:arial; color:#FF0000; background: #555">lorem100 then you press the tab key</p>
+    <p>This is the example of <span style="color:green">span tag</span> and the 
+       <span style="color:red">div tag</span> alongwith CSS
+    </p>
+  </div>
+  <div>
+    <h2 title="Hello HTML!">This is <i>italic</i> heading</h2>
+    <p>The following word uses a <b>bold</b> typeface.</p>
+    <p>The following word uses a <u>underlined</u> typeface.</p>
+    <p>The following word uses a <strike>strikethrough</strike> typeface.</p>
+    <p>The following word uses a <big>big</big> typeface.</p>
+    <p>The following word uses a <small>small</small> typeface.</p>
+  </div>
+</div>
+
+<h1>DIFFERENCES BETWEEN HTML ELEMENTS AND TAGS</h1>
+<h2>HTML TAGS</h2>
+<p>YOUR SHORT NOTE ON HTML TAGS SHOULD BE HERE </p><br />
+
+<h2>HTML ELEMENTS</h2>
+<p>YOUR SHORT NOTE ON HTML ELEMENTS SHOULD BE HERE</p><br />
+
+<h2>SOME EXAMPLES OF HTML TAGS</h2>
+<p>Your examples should be here</p><br />
+
+<h2>SOME EXAMPLES OF HTML ELEMENTS</h2>
+<p>Your examples should be here</p><br />
+
+<center>
+<p>Type lorem50 on your keyboard and press the tab key. 
+This should give you 50 dummy texts</p>
+</center>
+
+<center>
+<p>Type lorem100 on your keyboard and press the tab key. 
+This should give you 100 dummy texts</p>
+</center>
+</body>
+</html>

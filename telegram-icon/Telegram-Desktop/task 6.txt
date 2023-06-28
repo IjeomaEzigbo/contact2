@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Task 6</title>
+</head>
+<body>
+
+<div>
+  <div id="menu" align="middle" >
+    <a href="your link to index page">HOME</a> | 
+    <a href="your link to about page">ABOUT</a> | 
+    <a href="your link to contact page">CONTACT</a> | 
+    <a href="your link to resources page">RESOURCES</a>
+  </div>
+  <div>
+    <img src="your link to index.jpg image" />
+  </div>
+</body>
+</html>
